@@ -1,0 +1,30 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+sqlalchemy
+
+# Document processing
+pymupdf
+
+# ML / classification
+tensorflow-cpu
+scikit-learn
+pandas
+numpy
+
+# Embeddings & vector search
+sentence-transformers
+chromadb
+rank-bm25
+
+# LLM
+openai
+langchain
+langchain-community
+langchain-openai
+
+# Testing
+pytest
+httpx

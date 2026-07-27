@@ -1,0 +1,6 @@
+{
+  "engine": "tensorflow",
+  "model_path": "./models/tf_classifier.h5",
+  "final_train_accuracy": 1.0,
+  "final_val_accuracy": 0.0
+}

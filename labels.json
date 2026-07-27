@@ -1,0 +1,18 @@
+{
+  "label2id": {
+    "Artificial Intelligence": 0,
+    "Blockchain": 1,
+    "Cloud Computing": 2,
+    "Cyber Security": 3,
+    "Networking": 4,
+    "Robotics": 5
+  },
+  "id2label": {
+    "0": "Artificial Intelligence",
+    "1": "Blockchain",
+    "2": "Cloud Computing",
+    "3": "Cyber Security",
+    "4": "Networking",
+    "5": "Robotics"
+  }
+}
