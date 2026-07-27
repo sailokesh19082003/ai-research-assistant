@@ -1,0 +1,5 @@
+{
+  "engine": "sklearn",
+  "model_path": "./models/tf_classifier_sklearn.pkl",
+  "final_val_accuracy": 0.5
+}

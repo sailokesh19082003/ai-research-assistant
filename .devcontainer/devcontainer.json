@@ -1,0 +1,9 @@
+{
+  "name": "DocuMind - AI Research Assistant",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install -r requirements.txt",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": { "label": "FastAPI - Swagger UI at /docs", "onAutoForward": "notify" }
+  }
+}

@@ -9,7 +9,6 @@ sqlalchemy
 pymupdf
 
 # ML / classification
-tensorflow-cpu
 scikit-learn
 pandas
 numpy
