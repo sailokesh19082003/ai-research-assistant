@@ -27,3 +27,4 @@ langchain-openai
 # Testing
 pytest
 httpx
+google-generativeai

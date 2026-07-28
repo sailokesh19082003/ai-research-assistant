@@ -28,6 +28,8 @@ class Settings(BaseSettings):
 
     # --- LLM ---
     OPENAI_API_KEY: str = ""
+    GEMINI_API_KEY: str = ""
+    GEMINI_MODEL: str = "gemini-1.5-flash"
     LLM_MODEL: str = "gpt-4o"
     LLM_TEMPERATURE: float = 0.0
 
