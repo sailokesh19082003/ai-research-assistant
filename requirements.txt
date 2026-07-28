@@ -28,3 +28,4 @@ langchain-openai
 pytest
 httpx
 google-generativeai
+streamlit
